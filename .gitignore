@@ -1,0 +1,13 @@
+echo "poseperfect_env/" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.h5" >> .gitignore
+echo "*.tflite" >> .gitignore
+echo "*.mp4" >> .gitignore
+echo "*.jpg" >> .gitignore
+echo "*.png" >> .gitignore
+echo "*.zip" >> .gitignore
+
+*myenv
+*poseperfect_env
+*venv
+poseperfect_env/
